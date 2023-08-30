@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Repeat_100px.png</file>
+        <file>images/Translation_100px.png</file>
+        <file>images/Open_100px.png</file>
+        <file>images/Save_100px.png</file>
+        <file>images/File_100px.png</file>
+        <file>images/11.png</file>
+        <file>images/22.png</file>
+        <file>images/33.png</file>
+        <file>images/44.png</file>
+        <file>images/55.png</file>
+        <file>images/a_to_m.png</file>        
+    </qresource>
+    <qresource prefix="/transfer">
+        <file>morse_translator.qm</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/style.css</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+QPushButton
+{
+   color: black;
+    background-color: white;
+    padding:4px;
+    font-size: 14px;
+    border-radius: 2px;
+    border: 1px solid #3873d9;
+}
+
+QPushButton:hover {
+   background-color: #c9f0fe;
+}
+
+QPushButton:pressed {
+    color: white;
+    border: 1px solid #3873d9;
+    background: #2bc0ff;
+ }
+
+
+QWidget#Widget{ background-color: white; }
+
+QTextEdit#textEditTranslation {background-color: #e7e7e7;}
